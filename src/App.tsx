@@ -5,8 +5,7 @@ import './App.css';
 function App() {
   return (
     <div data-test="component-app"> 
-add two
-    </div>
+Proveriem git    </div>
   );
 }
 
